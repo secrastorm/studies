@@ -1,2 +1,2 @@
-# studies
-simple studies
+# Studies
+Simple studies
